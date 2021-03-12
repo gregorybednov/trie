@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDictionary.a  CMakeFiles/Dictionary.dir/mnt/c/Users/Gregory/CLionProjects/Dictionary/library.c.o
+/usr/bin/ranlib libDictionary.a
